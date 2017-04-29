@@ -1,5 +1,7 @@
 # go-fish
-The classic Go Fish card game via the console
+[![Build Status](https://travis-ci.com/jeanquirino/go-fish.svg?token=QSCpRppUcxvwf7UfuSsy&branch=master)](https://travis-ci.com/jeanquirino/go-fish)
+
+The classic Go Fish card game via the console.
 
 ## Rules
 ### Players
